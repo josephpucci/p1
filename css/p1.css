@@ -1,0 +1,21 @@
+body {
+	background-color: #F0F0F0;
+}
+
+#wrapper {
+	text-align: center;
+	width: 50%;
+	position: absolute;
+	margin: auto;
+
+}
+
+ul li {
+	list-style-type: none;
+	font-size: medium;
+
+}
+
+#listheader {
+	font-weight: bold;
+}
